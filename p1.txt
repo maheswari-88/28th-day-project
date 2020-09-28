@@ -3,4 +3,9 @@ bringal
 
 
 i want to eat
+
 public void load data to catch()
+
+
+public static void main()
+
