@@ -3,3 +3,6 @@ bringal
 
 
 i want to eat
+
+public static void main()
+
